@@ -1,0 +1,65 @@
+.textorecomendacoes {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.mar-bottom {
+    margin-bottom: 50px;
+}
+
+.mar-top {
+    margin-top: 50px;
+}
+
+.card-body {
+    padding: 0rem 0rem;
+}
+
+.card-title {
+    margin-top: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+}
+
+.resize-img2 {
+    height: 340px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.grey {
+    background-color: rgb(189, 189, 189);
+}
+
+.small {
+    font-size: small;
+}
+
+.centralize {
+    padding-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.centralize2 {
+    padding-bottom: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.text-align-left {
+    text-align: left;
+}
+
+.white {
+    color: white;
+}
